@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nik-agarkar
-- 👀 I’m interested in designing, and building new software solutions in the field of human data science, or health science sector
+- 👀 I’ve gained hands-on to  design, build new software solutions in the field of human data science, finance domain.
 - 🌱 I’m currently learning - Big Data tools such as Spark, Scala, Hive, Hive, etc.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me @ email: nra9@njit.edu
